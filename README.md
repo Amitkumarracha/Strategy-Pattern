@@ -141,14 +141,7 @@ I can fly with wings!
 ### 📜 **License**
 MIT License. Free to use and modify.
 
----
-
-### 👨‍💻 **Author**
-👤 **[Your Name]**  
-📧 Email: [your-email@example.com]  
-🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)
-
----
+------
 
 This `README.md` is **well-structured, professional, and detailed**! 🚀  
 Let me know if you need any modifications. 👍
