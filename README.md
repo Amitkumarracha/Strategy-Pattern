@@ -1,5 +1,3 @@
-Here’s a **robust `README.md` file** for your **Strategy Pattern Implementation for Duck Behavior** project.
-
 ---
 
 ## 🦆 **Strategy Pattern - Duck Behavior Simulation**
